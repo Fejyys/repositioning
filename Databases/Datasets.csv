@@ -1,0 +1,21 @@
+Dataset names;Availability;Dataset URL;Dataset Format (if applicable);PPI Count (approx.);Terms of use
+HI-union;Free;https://interactome-atlas.org/download;;64000;The data and web portal are made available to the public under the CC BY 4.0 license. Users of the web portal or its data should cite the web portal and the HuRI publication
+Interactome3D;Free;https://interactome3d.irbbarcelona.org/downloadset.php?queryid=human&release=current&path=download;https://interactome3d.irbbarcelona.org/help.php#downloads;162000;https://interactome3d.irbbarcelona.org/references.php
+Instruct;-;-;;;
+Interactome INSIDER;Free;http://interactomeinsider.yulab.org/downloads.html;;7135;http://interactomeinsider.yulab.org/about.html
+PINA (v2) ;No longer available;;;;
+PINA (v3) ;Free (Web-based);https://omics.bjcancer.org/pina/stats.action;;439,714   ;We adhere all aspects of data access and usage policies of the original studies. PINA users should strictly adhere to the policies of the NIH Genomic Data Sharing (GDS) Policy for utilizing RNA-seq/clinical data integrated into PINA, and the CPTAC Data Use Agreement for utilizing proteomic data integrated into PINA.
+LitBM-17;Free;https://interactome-atlas.org/download;https://interactome3d.irbbarcelona.org/help.php#downloads;;The data and web portal are made available to the public under the CC BY 4.0 license. Users of the web portal or its data should cite the web portal and the HuRI publication
+MINT;PINA v3 includes;;;;
+BIOGRID;PINA v3 includes;;;;
+HINT;Free;https://hint.yulab.org/download;;163000;https://hint.yulab.org/faq
+HIPPIE;Free;https://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/download.php;;600000;https://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/information.php#cite
+APID;Free (Web-based);http://apid.dep.usal.es/APID/init.action#tabr3;;670000;http://apid.dep.usal.es/APID/init.action#tabr4
+InWeb;-;;;;
+;;;;;
+BioPlex;Free;https://bioplex.hms.harvard.edu/interactions.php;;;https://bioplex.hms.harvard.edu/interactions.php
+QUBIC;-;;;;
+CoFrac;Free (Web-based);https://proteomecentral.proteomexchange.org/?view=datasets;;;https://proteomecentral.proteomexchange.org/?view=datasets
+;;;;;
+KinomeNetworkX;Free;https://bioinfo.uth.edu/kinomenetworkX/download.html;;93000;https://bioinfo.uth.edu/kinomenetworkX/citation.html
+PhospoSitePlus;License required;https://www.phosphosite.org/staticDownloads;;;https://www.phosphosite.org/staticCiteUs.action
